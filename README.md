@@ -1,19 +1,18 @@
-# Honey pot :honey_pot:
+# Giveth Garden Interface :leaves: :purple_heart:
 
+### Forked from [1Hive Honey Pot](https://github.com/1Hive/honey-pot)
 ### Karma template frontend using @aragon/connect.
-
-<a href="https://1hive.org/#/"><img src="docs/assets/screenshot.png" /></a>
 
 How to run locally:
 
 #### Clone the repository
 ```
-git clone https://github.com/1Hive/honey-pot.git
+git clone https://github.com/Giveth/garden-interface.git
 ```
 
 #### Install dependencies
 ```
-cd honey-pot
+cd garden-interface
 yarn --ignore-engines
 ```
 
